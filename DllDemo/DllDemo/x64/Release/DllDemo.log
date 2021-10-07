@@ -1,0 +1,2 @@
+﻿  dllmain.cpp
+LINK : fatal error LNK1104: 无法打开文件“C:\Users\Administrator\Desktop\DllInject\DllDemo\x64\Release\DllDemo.dll”
